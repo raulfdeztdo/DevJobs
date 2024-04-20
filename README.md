@@ -40,9 +40,9 @@ Asegúrate de ejecutar ambos comandos para tener tu entorno Docker funcionando y
 
 ## Screenshots
 
-![Dark Mode App DevJobs](https://i.ibb.co/bW3GyQb/devjobs-darkmode.png)
+![Dark Mode App DevJobs](devjobs-darkmode.png)
 
-![Light Mode App DevJobs](https://i.ibb.co/3SW0Pgs/devjobs-lightmode.png)
+![Light Mode App DevJobs](devjobs-lightmode.png)
 
 </p>
 
