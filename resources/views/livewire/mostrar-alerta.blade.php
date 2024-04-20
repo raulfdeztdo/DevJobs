@@ -1,0 +1,1 @@
+<x-input-error :messages="$message" class="mt-2 dark:text-red-300" />
